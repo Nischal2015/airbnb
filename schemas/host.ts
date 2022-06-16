@@ -1,6 +1,6 @@
 export default {
-  name: 'traveller',
-  title: 'Traveller',
+  name: 'host',
+  title: 'Host',
   type: 'reference',
   to: [{ type: 'person' }]
 }
